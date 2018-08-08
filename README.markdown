@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ruivieira/scala-assembly.g8.svg?branch=master)](https://travis-ci.org/ruivieira/scala-assembly.g8)
+
 A [Giter8][g8] template for a Scala assembly jar.
 
 # Usage
